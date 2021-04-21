@@ -243,6 +243,9 @@ MonoBehaviour:
   - {fileID: 4190531189745793942, guid: fda7bc0334f04e9498dc84ac389a7c5a, type: 3}
   - {fileID: 4190531189745793942, guid: 8982eeba788ca5e45b5d19651962dbdc, type: 3}
   - {fileID: 4190531189745793942, guid: 01dd9aeea3f956a40ba61fab5eecf2c1, type: 3}
+  - {fileID: 4190531189745793942, guid: 01dd9aeea3f956a40ba61fab5eecf2c1, type: 3}
+  - {fileID: 4190531189745793942, guid: 01dd9aeea3f956a40ba61fab5eecf2c1, type: 3}
+  - {fileID: 4190531189745793942, guid: 01dd9aeea3f956a40ba61fab5eecf2c1, type: 3}
   Startspawntime: 0
   spawntime: 0.5
 --- !u!4 &735289113
